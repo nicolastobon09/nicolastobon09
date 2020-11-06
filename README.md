@@ -1,6 +1,6 @@
 ### Hi World! 👋
 
-Software Developer. I'm a person willing to face any challenge, I'm not afraid of changes and I like to learn new things every day. Co-founder and Podcaster at [Perreo&Code](https://twitter.com/perreoandcode) with 4 friends and collegues where we talk about the IT area and stuff like that.
+I'm a person willing to face any challenge, I'm not afraid of changes and I like to learn new things every day. Co-founder and Podcaster at [Perreo&Code](https://twitter.com/perreoandcode); a podcast that seeks to help people understand technology in a more fun and informal way.
 
 ### What I'm focusing on 👨🏾‍💻:
 
