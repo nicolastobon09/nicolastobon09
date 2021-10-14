@@ -4,7 +4,7 @@ I'm a person willing to face any challenge, I'm not afraid of changes and I like
 
 ### What I'm focusing on 👨🏾‍💻:
 
-currently improving my skills in NodeJs, JavaScrip technologies such as NextJs and ReactJS
+currently improving my skills in NodeJs, JavaScript technologies such as NextJs and ReactJS
 
 ### Most recent episodes on [Perreo&Code](https://anchor.fm/perreoandcode) 🔊 :
 
