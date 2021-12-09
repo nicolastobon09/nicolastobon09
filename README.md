@@ -21,8 +21,8 @@ currently improving my skills in NodeJs, JavaScript technologies such as NextJs 
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats 📊:</b></summary>
 	<br/>
-	<img src="https://jf-gh-stats.vercel.app/api?username=NICOLASTOBON&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
-	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=NICOLASTOBON&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=nicolastobon09&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=nicolastobon09&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
 </details>
 
 <details>
